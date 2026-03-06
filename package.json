@@ -1,0 +1,10 @@
+{
+  "name": "bot-limpeza",
+  "version": "1.0.0",
+  "description": "Bot de vendas via WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
